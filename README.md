@@ -15,7 +15,7 @@
 RegenRide is a project aimed at maximizing energy recovery for electronic skateboards, allowing for extended ride times under a single charge. 
 
 ## Explained
-To gain a better understanding of how each program works and what it is used for, see the [EXPLAINED](XPLAINED) file for details.
+To gain a better understanding of how each program works and what it is used for, see the [Explained](Explained) file for details.
 
 ## Features
 - Feature 1: [Describe feature 1]
