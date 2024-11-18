@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Explained]{#explained}
+- [Explained](#explained)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
