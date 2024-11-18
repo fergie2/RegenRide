@@ -7,13 +7,11 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Introduction
 RegenRide is a project aimed at maximizing energy recovery for electronic skateboards, allowing for extended ride times under a single charge. 
-This project is part of our Senior year requirements at Umass. 
 
 ## Features
 - Feature 1: [Describe feature 1]
